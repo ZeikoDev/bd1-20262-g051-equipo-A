@@ -35,9 +35,11 @@ El proyecto evoluciona durante el semestre a través de las siguientes etapas:
 
 ## Autor
 
-| Estudiante | Programa |
-|---|---|
-| Juan Camilo González Hoyos | Ingeniería de Sistemas |
+| Estudiante | Programa | Equipo |
+|---|---|---|
+| Juan Camilo González Hoyos | Ingeniería de Sistemas | **Equipo E** |
+
+> Tareas 1 y 2 realizadas como Equipo A; desde la Tarea 3, trabajo individual como Equipo E.
 
 ## Descripción del caso de estudio
 
@@ -62,8 +64,12 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 ├── Tarea3/                 Modelo Físico (EA3)
 │   ├── Informe/            Informe de la propuesta de solución (.pdf)
 │   ├── Resultados/         Diccionario de datos físico (.xlsx) y scripts DDL de creación y modificación (.sql)
-│   └── Video/              El video de sustentación se presentará en la Tarea 4
-├── Tarea4/
+│   └── Video/              Enlace al video de sustentación (presentado en la Tarea 4)
+├── Tarea4/                 Implementación en tres SGBD (EA4)
+│   ├── Informe/            Informe con resultados (.pdf)
+│   ├── Diccionarios/       Tipos de datos, inventario y diccionarios físicos (.xlsx)
+│   ├── Scripts/            DDL de PostgreSQL (creación y modificación), MySQL y SQL Server (.sql)
+│   └── Video/              Enlace al video de sustentación
 ├── Tarea5/
 ├── Tarea6/
 └── docs/img/               Recursos gráficos del repositorio
@@ -76,6 +82,6 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 | [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Entregado (informe y video) |
 | [Tarea 2](Tarea2) — Modelo Lógico | Normalización del modelo relacional (1FN, 2FN, 3FN) y diccionario de datos genérico | Informe y hoja de cálculo entregados · video pendiente |
 | [Tarea 3](Tarea3) — Modelo Físico | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación. Incluye los ajustes de la revisión con el docente (sin UUID; atributos de dos valores como BOOLEAN) | Informe, hoja de cálculo y scripts entregados · video en la Tarea 4 |
-| [Tarea 4](Tarea4) | Pendiente | Pendiente |
+| [Tarea 4](Tarea4) — Implementación en tres SGBD | Tabla comparativa de tipos, diccionarios físicos y scripts DDL en PostgreSQL, MySQL y SQL Server; modificación estructurada y semi estructurada (JSONB) | Entregado (informe, hoja de cálculo, scripts y video) |
 | [Tarea 5](Tarea5) | Pendiente | Pendiente |
 | [Tarea 6](Tarea6) | Pendiente | Pendiente |
